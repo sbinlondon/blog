@@ -8,6 +8,7 @@ module.exports = {
       twitter: '@sbinlondon'
     }
   },
+  pathPrefix: '/blog',
   plugins: [
     {
       resolve: `gatsby-source-filesystem`,
@@ -60,8 +61,8 @@ module.exports = {
         name: `Gatsby Starter Blog`,
         short_name: `GatsbyJS`,
         start_url: `/`,
-        background_color: `#ffffff`,
-        theme_color: `#663399`,
+        background_color: `#ff8b76`,
+        theme_color: `#ff8b76`,
         display: `minimal-ui`,
         icon: `content/assets/gatsby-icon.png`,
       },
