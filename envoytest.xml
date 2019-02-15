@@ -1,0 +1,4 @@
+<Response>
+<Say voice="alice">Today's headlines: Brexit, Brexit, and some more Brexit.</Say>
+<Play>http://demo.twilio.com/docs/classic.mp3</Play>
+</Response>
